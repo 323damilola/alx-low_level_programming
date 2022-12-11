@@ -12,9 +12,9 @@
  * You can only use the putchar function
  * (Every other function (printf, puts, etc...) is forbidden)
  * You can only use putchar five times maximum in your code
- *  You are not allowed to use any variable of type char
- *  All your codes should be in the main function
- *  Return o
+ * You are not allowed to use any variable of type char
+ * All your codes should be in the main function
+ * Return o
  */
 int main(void)
 {
