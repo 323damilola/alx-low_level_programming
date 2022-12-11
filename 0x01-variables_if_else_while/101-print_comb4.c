@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main entry 
+ * main - main entry
  * Description: A program that printsout all the possible combintion
  * of three digits and they (the numbers) are seperated by a comma and space
  * Result: 0
