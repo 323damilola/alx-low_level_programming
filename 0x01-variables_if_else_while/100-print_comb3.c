@@ -14,7 +14,7 @@
  * You can only use putchar five times maximum in your code
  * You are not allowed to use any variable of type char
  * All your codes should be in the main function
- * Return o
+ * Return: 0
  */
 int main(void)
 {
@@ -33,7 +33,7 @@ int main(void)
 
 				if (c + d != 17)
 				{
-					putchar('.');
+					putchar(',');
 					putchar(' ');
 				}
 			}
