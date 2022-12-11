@@ -33,11 +33,11 @@ int main(void)
 					}
 				}
 
-				c++
+				c++;
 			}
-			d++
+			d++;
 		}
-		e++
+		e++;
 	}
 	putchar('\n');
 	return (0);
