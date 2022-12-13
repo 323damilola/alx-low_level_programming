@@ -8,7 +8,7 @@
 
 int print_last_digit(int d)
 {
-	int ld = % 10;
+	int ld = d % 10;
 
 	if (ld < o)
 		ld *= -1;
