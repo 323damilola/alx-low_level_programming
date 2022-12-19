@@ -2,15 +2,15 @@
 /**
 * swap_int - swaps the value of int d and int g
 * Omo E no easy ooooo
-* @d: first int
-* @g: second int
+* @a: first int
+* @b: second int
 * Return 0
 */
-void swap_int(int *d, int *g)
+void swap_int(int *a, int *b)
 {
 		int f;
 
-		f = *d;
-		*d = *g;
-		*g = f;
+		f = *a;
+		*a = *b;
+		*b = f;
 }
