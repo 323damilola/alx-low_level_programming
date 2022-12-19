@@ -4,8 +4,8 @@
 
 /**
  * main - Generates random valid passwords for the
- *        program 101-crackme.
- * This one hard like die 
+ * program 101-crackme.
+ * Omo This one hard like mad
  * Return: Always 0.
  */
 int main(void)
