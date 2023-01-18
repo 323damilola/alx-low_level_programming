@@ -1,0 +1,1 @@
+Function pointers in C need to be declared with an asterisk symbol and function parameters (same as the function they will point to) before using them in the program. Declaration of function pointers in C includes the return type and data type of different function arguments.
