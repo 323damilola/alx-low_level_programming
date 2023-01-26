@@ -1,0 +1,1 @@
+For constructing a singly linked list in C we make use of the structure keyword(struct), for creating user-defined data types, which can store various different types of data in the nodes of the singly linked list. The other is a pointer type variable, which stores the address of the next node.
